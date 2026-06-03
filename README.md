@@ -1,2 +1,14 @@
 # breast-cancer-diagnosis-tda
-Design and Simulation of Two-Stage CMOS OTA using 45nm Technology in Cadence Virtuoso.
+# Breast Cancer Diagnosis using Topological Data Analysis
+
+## Overview
+A breast cancer diagnosis system based on mammogram image analysis using Topological Data Analysis (TDA) and machine learning techniques.
+
+## Features
+- Mammogram image preprocessing
+- Feature extraction
+- Persistent Homology Diagram generation
+- Classification of breast cancer cases
+
+## Author
+Abburi Sowgandhi
